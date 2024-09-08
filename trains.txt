@@ -1,0 +1,4 @@
+rajdhani express,722137,bankura,howrah,10
+purulia express,12345,bankura,purulia,60
+ruposi bangla express,12348,bankura,purulia,90
+rani sheromoni  express,12305,bankura,purulia,30
